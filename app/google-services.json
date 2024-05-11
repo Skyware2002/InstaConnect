@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180453531477",
+    "project_id": "instaconnect-a7b5c",
+    "storage_bucket": "instaconnect-a7b5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180453531477:android:f6c057bcf71ca36c53d9dc",
+        "android_client_info": {
+          "package_name": "com.skyware.instaconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW__k2Z6A209hAFMZ45TjMWvOGhxSIqrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
